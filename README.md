@@ -5,6 +5,11 @@
   ## Description
   This is an ORM project using sequalize that creates a backend e-commerce site for tracking products, categores and tags.  It has Get, Post, Put, and Delete routes for each.  
 
+  Here is a link to a walkthrough of the application.  
+  https://drive.google.com/file/d/1wtAehm1rNstycT7DPUq_EGjF5bWJtb8d/view
+
+  ![e-commerce-backend](https://github.com/JonBay/e-commerce-site-backend/assets/134355923/a371d44c-3831-462c-80ea-32476ac3a584)
+
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
